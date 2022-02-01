@@ -1,9 +1,9 @@
 # UNDERGROUNDLY
 
-## [Guangzhou &amp; Foshan Metro System Map](Guangzhou-Metro-System-Map)
+## [Guangzhou &amp; Foshan Metro System Map](guangzhou)
  
 ![Guangzhou](GZ.png)
  
-## [Shenzhen Metro System Map](Shenzhen-Metro-System-Map)
+## [Shenzhen Metro System Map](shenzhen)
 
 ![Shenzhen](SZ.png)
