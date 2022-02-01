@@ -1,6 +1,6 @@
 # UNDERGROUNDLY
  
-![Guangzhou](GZ.png)
+![Guangzhou](GZ.png) ![Foshan](FS.png)
 
 ### [Guangzhou &amp; Foshan Metro System Map](guangzhou.svg)
  
