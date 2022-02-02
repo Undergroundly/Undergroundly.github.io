@@ -1,3 +1,3 @@
 # Undergroundly
-- [City Rail Maps](undergroundly.github.io)
-- [Blogs](undergroundly.github.io/blog/)
+- [City Rail Maps](https://undergroundly.github.io)
+- [Blogs](https://undergroundly.github.io/blog/)
