@@ -6,4 +6,4 @@
  
  ![Shenzhen](SZ.png)
 
-### [Shenzhen Metro System Map](shenzhen.md)
+### [Shenzhen Metro System Map](index.md)
