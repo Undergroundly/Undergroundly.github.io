@@ -2,10 +2,8 @@
  
 ![Guangzhou](GZ.png) ![Foshan](FS.png)
 
-### [Guangzhou &amp; Foshan Metro System Map](guangzhou.svg)
+### [Guangzhou &amp; Foshan Metro System Map](guangzhou-foshan.md)
  
  ![Shenzhen](SZ.png)
 
-### [Shenzhen Metro System Map](shenzhen.svg)
-
-### [another page](GZ_FS.md)
+### [Shenzhen Metro System Map](shenzhen.md)
