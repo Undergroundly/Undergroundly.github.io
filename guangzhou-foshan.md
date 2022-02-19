@@ -1,2 +1,2 @@
 # Guangzhou &amp; Foshan Metro System Map
-[SVG Format](gzmtr-fmtr)
+[SVG Format](mapres/gzmtr-fmtr)
