@@ -2,7 +2,7 @@
  
 ![Guangzhou](GZ.png) ![Foshan](FS.png)
 
-### [广州，佛山 Guangzhou, Foshan](guangzhou-foshan.md)
+### [广州，佛山 Guangzhou, Foshan](gnz.md)
  
  ![Shenzhen](SZ.png)
 
