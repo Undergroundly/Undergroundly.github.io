@@ -4,6 +4,6 @@
 
 ### [广州，佛山 Guangzhou, Foshan](gnz.md)
  
- ![Hong Kong](HK.png)
+ ![Hong Kong](hk.png)
 
 ### [香港 Hong Kong](hk.md)
